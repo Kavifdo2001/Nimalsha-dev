@@ -1534,7 +1534,7 @@ body.mouse-active .mouse-follow-glow {
     border-radius: 8px;
     backdrop-filter: blur(10px);
     transition: all var(--transition-smooth);
-    width: 80%;
+    /* width: 80%; */
 }
 
 .info-card:hover {
